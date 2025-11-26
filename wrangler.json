@@ -1,0 +1,7 @@
+{
+  "name": "safy-security-app",
+  "compatibility_date": "2025-11-26",
+  "assets": {
+    "directory": "."
+  }
+}
